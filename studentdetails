@@ -1,0 +1,7 @@
+name=str(input("enter a student name"))
+usn=int(input("enter a student usn"))
+age=int(input("enter a student age"))
+
+print("NAME="name)
+print("USN="usn)
+print("AGE="age)
